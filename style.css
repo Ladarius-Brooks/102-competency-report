@@ -1,0 +1,10 @@
+h2{
+    color: red;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: red;
+    padding-left: 10px;
+    border-bottom: 2rem;
+}
